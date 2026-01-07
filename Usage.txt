@@ -1,12 +1,1 @@
-pkg update
-pkg upgrade
-pkg install python rust -y
-pip -v install google-genai requests rich python-dotenv
-# wait 2-3hrs compiling is long
 
-python WormGpt.py
-# copy your id send to @Variant PH
-#enjoy
-
-
-Help or Contact: https://www.facebook.com/share/17ij3Sj33E/
